@@ -6,7 +6,7 @@
 using bsb' new in-source builds in conjunction with .bs.js extensions:**
 
 ```json
-// bcsconfig.json
+// bsconfig.json
 {
   "package-specs": {
     "module": "commonjs",
